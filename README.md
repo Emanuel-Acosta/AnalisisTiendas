@@ -32,7 +32,7 @@ Ayudar al Sr. Juan, dueño de Alura Store, a decidir **cuál tienda vender**, ba
 
 ---
 
-##🧪¿Cómo abrir y ejecutar el proyecto?
+## 🧪¿Cómo abrir y ejecutar el proyecto?
 
 Para visualizar y ejecutar el análisis en Google Colab, sigue estos pasos:
 
