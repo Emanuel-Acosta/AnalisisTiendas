@@ -32,6 +32,30 @@ Ayudar al Sr. Juan, dueño de Alura Store, a decidir **cuál tienda vender**, ba
 
 ---
 
+##🧪¿Cómo abrir y ejecutar el proyecto?
+
+Para visualizar y ejecutar el análisis en Google Colab, sigue estos pasos:
+
+Abre el notebook desde GitHub:
+
+Puedes acceder directamente al notebook haciendo clic aquí se llama "AnalisisTiendas.ipynb" 👉 *[Abrir aqui](https://github.com/Emanuel-Acosta/AnalisisTiendas/blob/main/AnalisisTiendas.ipynb)* 
+
+Ejecuta en Google Colab:
+
+Una vez abierto el notebook en GitHub:
+
+Haz clic en el botón “Open in Colab” (si está disponible), O si no, 
+
+Copia la URL del notebook y pégala en https://colab.research.google.com/ seleccionando la pestaña GitHub para buscar el repositorio Emanuel-Acosta/AnalisisTiendas.
+
+Conéctate a un entorno de ejecución:
+
+Ve al menú Entorno de ejecución > Conectar.
+
+Luego, haz clic en Entorno de ejecución > Ejecutar todo para correr todas las celdas.
+
+Asegúrate de tener conexión a internet, ya que los datos se cargan directamente desde enlaces externos (GitHub).
+
 ## 📈 Análisis Detallado
 
 ###  Periodo de Ventas
