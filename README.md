@@ -34,7 +34,7 @@ Ayudar al Sr. Juan, dueño de Alura Store, a decidir **cuál tienda vender**, ba
 
 ## 📈 Análisis Detallado
 
-### 1. Periodo de Ventas
+###  Periodo de Ventas
 
 Las 4 tiendas tienen periodos de ventas prácticamente idénticos:
 
@@ -44,7 +44,7 @@ Las 4 tiendas tienen periodos de ventas prácticamente idénticos:
 
 ---
 
-### 2. Ingresos Totales por Tienda
+### 1. Ingresos Totales por Tienda
 
 | Tienda   | Ingresos (COP)       | Ingresos (USD)     |
 |----------|----------------------|---------------------|
@@ -53,24 +53,26 @@ Las 4 tiendas tienen periodos de ventas prácticamente idénticos:
 | Tienda 3 | $1,098,019,600.00    | $261,994.66         |
 | Tienda 4 | $1,038,375,700.00    | $247,763.23         |
 
+![Ingresos por Tienda](barras1.png)
+
 📊 **Tienda 1** lidera en ingresos.
 
 ---
 
-### 3. Categoría más vendida por tienda
+### 2. Categoría más vendida por tienda
 
 En todas las tiendas, la categoría con mayores ventas fue **Electrónicos**:
 
-| Tienda   | Ingresos Electrónicos (USD) |
+| Tienda   | Ingresos Electrónicos (COP) |
 |----------|------------------------------|
-| Tienda 1 | $102,479.96                  |
-| Tienda 2 | $98,026.99                   |
-| Tienda 3 | $98,013.79                   |
-| Tienda 4 | $97,703.67                   |
+| Tienda 1 | $429,493,500.00              |
+| Tienda 2 | $410,831,100.00              |
+| Tienda 3 | $410,775,800.00              |
+| Tienda 4 | $409,476,100.00              |
 
 ---
 
-### 4. Calificación Promedio
+### 3. Calificación Promedio
 
 | Tienda   | Calificación |
 |----------|--------------|
@@ -79,11 +81,13 @@ En todas las tiendas, la categoría con mayores ventas fue **Electrónicos**:
 | Tienda 4 | 4.00         |
 | Tienda 1 | 3.98         |
 
+![Calificacion promedio](barras2.png)
+
 🌟 **Tienda 3** tiene la mejor calificación de satisfacción.
 
 ---
 
-### 5. Productos Más y Menos Vendidos
+### 4. Productos Más y Menos Vendidos
 
 Ejemplos por tienda:
 
@@ -105,7 +109,7 @@ Ejemplos por tienda:
 
 ---
 
-### 6. Costo Promedio de Envío
+### 5. Costo Promedio de Envío
 
 | Tienda   | Costo Envío (COP) | Costo Envío (USD) |
 |----------|--------------------|--------------------|
@@ -114,11 +118,15 @@ Ejemplos por tienda:
 | Tienda 3 | $24,805.68         | $5.92              |
 | Tienda 4 | $23,459.46         | $5.60              |
 
+![Costo promedio envio](torta.png)
+
 📦 **Tienda 1** tiene el mayor costo promedio de envío.
 
 ---
 
-### 7. Gráfico de Dispersión: Ingresos vs. Calificación
+### 6. Gráfico de Dispersión: Ingresos vs. Calificación
+
+![Ingresos vs Calificacion](dispersion.png)
 
 No se observa una **correlación clara** entre los ingresos y la calificación promedio. Esto sugiere que el rendimiento económico **no está necesariamente ligado a la satisfacción del cliente**.
 
@@ -142,16 +150,24 @@ No se observa una **correlación clara** entre los ingresos y la calificación p
 
 ## 📎 Archivos Relevantes
 
-- [Notebook Google Colab](#) *(Agrega aquí el enlace cuando lo subas a GitHub)*
-- Archivos CSV utilizados desde el repositorio oficial de Alura
+- [Notebook Google Colab](#) *[Repositorio en github](https://github.com/Emanuel-Acosta/AnalisisTiendas/tree/main)*
+- Archivos CSV utilizados desde el repositorio oficial de Alura:
+
+*[Datos Tienda 1](https://raw.githubusercontent.com/alura-es-cursos/challenge1-data-science-latam/refs/heads/main/base-de-datos-challenge1-latam/tienda_1%20.csv)*
+
+*[Datos Tienda 2](https://raw.githubusercontent.com/alura-es-cursos/challenge1-data-science-latam/refs/heads/main/base-de-datos-challenge1-latam/tienda_2.csv)*
+
+*[Datos Tienda 3](https://raw.githubusercontent.com/alura-es-cursos/challenge1-data-science-latam/refs/heads/main/base-de-datos-challenge1-latam/tienda_3.csv)*
+
+*[Datos Tienda 4](https://raw.githubusercontent.com/alura-es-cursos/challenge1-data-science-latam/refs/heads/main/base-de-datos-challenge1-latam/tienda_4.csv)*
 
 ---
 
 ## 👤 Autor
 
 **Emanuel Acosta Gamboa**  
-📧 [emanuelacosta.tr@gmail.com](mailto:emanuelacosta.tr@gmail.com)  
-🔗 [LinkedIn](#) *(agrega tu enlace personalizado)*
+📧 Correo: [emanuelacosta.tr@gmail.com](mailto:emanuelacosta.tr@gmail.com)  
+🔗 [LinkedIn](#) *([Emanuel-Acosta](https://www.linkedin.com/in/emanuel-acosta-gamboa/))*
 
 ---
 
@@ -163,10 +179,5 @@ No se observa una **correlación clara** entre los ingresos y la calificación p
 - Google Colab
 - GitHub
 
----
 
-## 📌 Licencia
 
-Este proyecto es solo con fines educativos y de análisis. No se autoriza el uso comercial de los datos ni visualizaciones sin consentimiento.
-
----
